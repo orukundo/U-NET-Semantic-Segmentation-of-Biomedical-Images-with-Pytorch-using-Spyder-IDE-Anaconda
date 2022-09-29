@@ -1,2 +1,2 @@
 # U-NET-Semantic-Segmentation-of-Biomedical-Images-with-Pytorch-using-Spyder-IDE-Anaconda
-This code was modified from its original version to semantically segment microscopic images acquired from the MiniTEM system.
+This is a modified version to enable semantic segmentation of microscopic images acquired from the MiniTEM system.
